@@ -22,7 +22,7 @@ Machine Learning: Análisis de Reglas de Asociación (Market Basket Analysis).
 Se trabajó con un conjunto de datos de 4,975,718 registros. El proceso incluyó la conexión a una base de datos SQLite y la normalización de tablas para su análisis funcional en Python.
 +2
 
-📸 
+📸 Pipeline de Datos en Python - Manejo de Big Data
 
 ![image[]()](https://github.com/ViviMendez777/IMAGENES/blob/main/Carga%20data%20Frame.PNG)
 
