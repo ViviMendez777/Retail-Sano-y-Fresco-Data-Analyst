@@ -35,8 +35,7 @@ El resultado final es un cuadro de mando interactivo que monitoriza los KPIs cr�
 
 📸 IMAGEN 3: [Título: Cuadro de Mando Integral - Visualización de KPIs y Tendencias]
 (Sugerencia: Pega aquí la foto de tu Dashboard de Power BI).
-Dashboard Sano y fresco.png
-https://github.com/ViviMendez777/IMAGENES/blob/main/Dashboard%20Sano%20y%20fresco.png
+![Descripción de tu dashboard](https://raw.githubusercontent.com/ViviMendez777/IMAGENES/main/Dashboard%20Sano%20y%20fresco.png)
 
 📈 Conclusiones y Recomendaciones Estratégicas
 Tras un análisis exhaustivo, se identificaron los siguientes puntos críticos para la dirección:
