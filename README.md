@@ -1,5 +1,5 @@
 
-https://github.com/ViviMendez777/IMAGENES/blob/main/Logo.jpg
+<img width="999" height="535" alt="image" src="https://github.com/ViviMendez777/IMAGENES/blob/main/Logo.jpg"
 
 Análisis de Optimización de Retail: Sano y Fresco 🍎
 Este proyecto presenta un análisis integral de una plataforma de retail de productos frescos, transformando una base de datos masiva de 5 millones de registros en decisiones estratégicas de negocio. El flujo de trabajo abarca desde la extracción y limpieza con Python hasta la implementación de Machine Learning y visualización avanzada en Power BI.
