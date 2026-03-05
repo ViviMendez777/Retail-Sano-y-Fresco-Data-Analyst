@@ -1,6 +1,4 @@
 
-<img width="999" height="535" alt="image" src="https://github.com/ViviMendez777/IMAGENES/blob/main/Logo.jpg"
-
 Análisis de Optimización de Retail: Sano y Fresco 🍎
 Este proyecto presenta un análisis integral de una plataforma de retail de productos frescos, transformando una base de datos masiva de 5 millones de registros en decisiones estratégicas de negocio. El flujo de trabajo abarca desde la extracción y limpieza con Python hasta la implementación de Machine Learning y visualización avanzada en Power BI.
 
@@ -9,7 +7,6 @@ Este proyecto presenta un análisis integral de una plataforma de retail de prod
 Lenguaje: Python (Pandas, SQLite3).
 +2
 
-<img width="999" height="535" alt="image" src="https://github.com/user-attachments/assets/fc55a823-4403-4bb1-9ea0-56f99cc5ac28" />
 
 
 Machine Learning: Análisis de Reglas de Asociación (Market Basket Analysis).
@@ -20,8 +17,7 @@ BI & Data Viz: Power BI.
 📁 1. Extracción y Procesamiento de Datos (ETL)
 Se trabajó con un conjunto de datos de 4,975,718 registros. El proceso incluyó la conexión a una base de datos SQLite y la normalización de tablas para su análisis funcional en Python.
 +2
-https://github.com/ViviMendez777/IMAGENES/blob/main/Tiickets.PNG
-https://github.com/ViviMendez777/IMAGENES/blob/main/dummies.PNG
+
 📸 IMAGEN 1: [Título: Pipeline de Datos en Python - Manejo de Big Data]
 
 
@@ -39,6 +35,8 @@ El resultado final es un cuadro de mando interactivo que monitoriza los KPIs cr�
 
 📸 IMAGEN 3: [Título: Cuadro de Mando Integral - Visualización de KPIs y Tendencias]
 (Sugerencia: Pega aquí la foto de tu Dashboard de Power BI).
+Dashboard Sano y fresco.png
+https://github.com/ViviMendez777/IMAGENES/blob/main/Dashboard%20Sano%20y%20fresco.png
 
 📈 Conclusiones y Recomendaciones Estratégicas
 Tras un análisis exhaustivo, se identificaron los siguientes puntos críticos para la dirección:
